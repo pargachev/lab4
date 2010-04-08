@@ -5,3 +5,4 @@
 *.pdb
 *.manifest
 /lab4/obj/
+*.user

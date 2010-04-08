@@ -9,6 +9,9 @@ namespace lab4
     {
         static void Main(string[] args)
         {
+
+			Evaluator evaluator = new Evaluator("-(*(-(x+2)*(x-1)))");
+        	var result = evaluator.Eval(3);
         }
     }
 }
