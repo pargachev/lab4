@@ -15,7 +15,8 @@ namespace lab4
             List<Operation> operations = GetOperations(function);
             if (operations.Count == 0)
             {
-                Expression.S
+                //Expression.S
+				throw new NotImplementedException();
             }
             else
             {
