@@ -1,7 +1,7 @@
 
 *.suo
-/_ReSharper.lab4
+/_ReSharper.lab4/
 *.exe
 *.pdb
 *.manifest
-/lab4/obj
+/lab4/obj/
