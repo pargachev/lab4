@@ -7,7 +7,7 @@ using System.Globalization;
 
 namespace lab4
 {
-    class Evaluator
+    public class Evaluator
     {
     	private ParameterExpression parameter = Expression.Parameter(typeof (double), "x");
 		private readonly Func<double, double> eval;
